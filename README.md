@@ -1,1 +1,1 @@
-*learn daily
+# learn daily
