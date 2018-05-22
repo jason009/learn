@@ -1,1 +1,1 @@
-# learn daily
+# daily learning
